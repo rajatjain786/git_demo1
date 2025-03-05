@@ -1,1 +1,2 @@
 this is my first understanding in the field of software development.
+this is the change I have made in the branch second of GIT.
